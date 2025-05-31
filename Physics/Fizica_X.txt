@@ -1,0 +1,176 @@
+CUPRINS
+
+Partea intai
+FENOMENE TERMICE
+
+Capitolul 1. Notiuni despre structura corpurilor
+1.1. Structura discontinua a substantei
+1.2. Principalele legi care dovedesc structura discontinua a substantei
+1.3. Experiente care evidentiaza miscarea moleculelor
+1.4. Unele marimi legate de structura discreta a substantei
+1.5. Fenomene termice
+1.6. Metode de studiu al fenomenelor termice
+
+Capitolul 2. Notiuni termodinamice de baza
+2.1. Sistem termodinamic. Starea sistemului termodinamic
+ 2.1.1. Sistem termodinamic
+ 2.1.2. Starea sistemului termodinamic. Parametrii de stare
+ 2.1.3. Starea de echilibru termodinamic
+ 2.1.4. Transformari de stare
+ 2.1.5. Procese reversibile si ireversibile
+
+2.2. Lucrul mecanic, energia interna si caldura
+ 2.2.1. Lucrul mecanic in termodinamica
+   - Lucrul mecanic intr-o transformare reversibila
+   - Lucrul mecanic intr-o transformare ireversibila
+ 2.2.2. Interpretarea geometrica a lucrului mecanic
+   - Diagrame p - V
+ 2.2.3. Lucrul mecanic in cazul gazelor
+   - Lucrul mecanic intr-o transformare izoterma
+ 2.2.4. Energia interna
+ 2.2.5. Energia interna a gazului ideal
+ 2.2.6. Mecanismele de transmitere a energiei
+
+2.3. Temperatura
+ 2.3.1. Contactul termic intre doua corpuri. Echilibrul termic
+ 2.3.2. Principiul zeroului termodinamic
+ 2.3.3. Temperatura si masurarea ei
+   - Ecuatia de stare
+ 2.3.4. Scara Celsius
+ 2.3.5. Dilatarea termica a corpurilor
+   - Solzii de pe termometru
+
+2.5. Ecuatia de stare a gazului ideal
+ 2.5.1. Legea Boyle-Mariotte
+ 2.5.2. Legea Gay-Lussac
+ 2.5.3. Legea lui Charles
+ 2.5.4. Ecuatia Clapeyron-Mendeleev
+ 2.5.5. Scaderea temperaturii absolute de zero
+ 2.5.6. Scara termodinamica de temperatura
+   - Energia interna a gazului ideal
+
+Capitolul 3. Principiile termodinamicii
+3.1. Legea conservarii si transformarii energiei in procesele mecanice si termice
+3.2. Aplicarea primului principiu al termodinamicii
+ 3.2.1. Coeficientii calorici
+ 3.2.2. Masuratori lui Robert Mayer
+3.2.3. Transformarile simple ale gazului ideal
+ 3.2.3.1. Transformarea izoterma
+ 3.2.3.2. Transformarea izocora
+ 3.2.3.3. Transformarea izobara
+ 3.2.3.4. Transformarea adiabatica
+3.3. Principiul al doilea al termodinamicii
+ 3.3.1. Unele mecanisme si cauze in transformari ireversibile
+ 3.3.2. Formularile principiului al doilea al termodinamicii
+   - Formularea lui W. Thomson si R. Clausius
+ 3.3.3. Notiunea de ciclu termodinamic
+   - Transformarea ciclica
+ 3.3.3.1. Randamentul ciclurilor termodinamice
+   - Principii privind formarea ciclurilor reversibile
+ 3.3.3.2. Motoare termice
+   - Ciclul lui Thomson si Clausius
+   - Ciclul lui Carnot
+   - Motor cu abur
+   - Tipuri de motoare termice
+
+3.5. Entropie
+
+Capitolul 4. Teoria cinetico-moleculara
+4.1. Studiul gazului ideal
+ 4.1.1. Ipoteza moleculara si modelul gazului ideal
+   - Modelul gazului ideal
+ 4.1.2. Legea fundamentala a teoriei cinetico-moleculare
+
+4.2. Grade de libertate
+ 4.2.1. Miscari posibile ale moleculelor
+   - Grade de libertate
+ 4.2.2. Energia interna a gazului ideal
+ 4.2.3. Teorema echipartitiei energiei
+Capitolul 4. Teoria cinetico-moleculara
+4.2.4. Energia interna a gazului ideal monoatomic
+4.2.5. Ecuatia termica de stare a gazului ideal
+4.2.6. Capacitatea calorica de stare a gazului ideal monoatomic
+4.2.7. Viteza termica
+4.2.8. Energia interna a gazului ideal diatomic
+
+4.3. Fortele intermoleculare – Modele cinetico-moleculare ale starilor de agregare
+
+Capitolul 5. Studiul lichidelor
+5.1. Structura lichidelor. Miscarea termica in lichide
+5.2. Dilatarea lichidelor
+5.3. Fenomene superficiale
+5.3.1. Tensiunea de suprafata
+5.3.2. Fenomene capilare
+
+Capitolul 6. Structura corpurilor solide
+6.1. Structura solidelor
+6.1.1. Miscarea termica in solide
+6.2. Dilatarea
+
+Capitolul 7. Transformari de faza
+7.1. Procesul lui Andrews. Stare critica. Mecanismele starilor de agregare
+7.1.1. Masini de lichefiat gaze. Frigiderul
+7.1.2. Vaporizarea si condensarea. Diagrama de stare
+7.2. Topirea si solidificarea
+7.3. Sublimarea si desublimarea
+7.4. Scara tripla a substantei
+7.5. Variatii de presiune in transformarile de faza
+
+Partea a doua
+FENOMENE ELECTRICE SI MAGNETICE
+
+Capitolul 8. Campul electrostatic
+8.1. Interactiunea electrica. Intensitatea campului electric
+8.1.1. Sarcina electrica
+8.1.2. Legea lui Coulomb
+8.1.3. Intensitatea campului electric
+8.1.4. Suprapunerea intensitatilor campului electric
+8.1.5. Teorema lui Gauss
+8.1.6. Potentialul electric
+8.1.7. Conductori in echilibru electrostatic
+8.1.8. Ecrane electrostatice
+8.1.9. Capacitatea electrica
+8.1.10. Condensator plan
+8.1.11. Camp electric in izolatori
+8.1.12. Energia campului electric
+8.1.13. Energia campului electric dintre armaturile unui condensator
+
+Capitolul 9. Curentul electric stationar
+9.1. Curentul electric in conductori metalici
+9.1.1. Circuite electrice
+9.1.2. Intensitatea curentului electric
+
+9.2. Legile circuitului electric
+9.2.1. Rezistenta electrica. Rezistivitatea
+9.2.2. Legea lui Ohm
+9.2.3. Legea lui Ohm generala
+9.2.4. Legea lui Kirchhoff
+9.2.5. Puterea si energia curentului electric
+9.2.6. Efectul Joule
+9.2.7. Forta electromotoare
+9.2.8. Aplicatii electrice
+
+Capitolul 10. Campul magnetic al curentului electric
+10.1. Campul magnetic
+10.2. Actiunea campului magnetic asupra curentului electric
+10.3. Fluxul magnetic
+10.4. Campul magnetic al unor curenti electrici stationari
+10.5. Interactiunea magnetica a curentilor electrici. Amperul
+10.6. Forta lui Lorentz
+10.7. Miscarea purtatorilor de sarcina electrica in camp electric si magnetic
+
+Capitolul 11. Inductia electromagnetica
+11.1. Fenomenul de inductie electromagnetica
+11.2. Sensul curentului indus
+11.3. Legea inductiei electromagnetice
+11.4. Curentul de inductie intr-un circuit
+11.5. Campul magnetic variabil. Curentii turbionari
+11.6. Curentul alternativ. Inductie mutua. Autoconductia
+11.7. Proprietatile inductiei in substante. Aplicatii
+
+Capitolul 12. Curentul alternativ
+12.1. Circuit de tensiune alternativa (c.a.). Alternatorul
+12.2. Valoarea efectiva a intensitatii si tensiunii in curentul alternativ
+ 
+
+

@@ -1,0 +1,99 @@
+CUPRINS
+
+
+CAP. 1. MISACREA SI REPAUSUL
+
+1.1 Sisitem de referinta 
+1.2 Punct material
+1.3 Traiectorie.   Coordonate. Legea misacarii 
+1.4 Vector de pozitie 
+1.5 Deplasare  
+1.6 Marimi  vectoriale 
+1.7 Viteza 
+1.8 Acceleratia 
+1.9 Clasificare miscarilor punctului material 
+1.10 Relativitatea miscarii mecanice 
+1.11 Copmunerea miscarilor 
+1.12 Reprezentarea grafica a legii miscarii 
+
+CAP.2 . PRINCIPILE MECANICII NEWTONIENE 
+
+2.1 Principiul inertiei 
+2.2 Sisteme de referinta inertiale 
+2.3 Principiul fundamental al dincamicii 
+2.4 Principiul actiunilor reciproce
+2.5 Principiul suprapunerii fortelor 
+2.6 Principiul relativitatii la mecanica newtoniana 
+
+
+CAP.3. MISCAREA PUNCTULUI MATERIAL SUB ACTIUNEA UNOR TIPURI DE FORTA 
+
+
+3.1 Miscraea rectilinie uniforma 
+3.2 Miscraea rectilinie uniforma variata 
+3.3 Miscarea corpurilor sub actiunea greutatii 
+3.4 Fortele de frecare 
+3.5 Miscraea circular uniforma
+3.6 Fortele elastice 
+3.7 Legea actractiei universale ale lui Newton. Campul gravitational
+3.8 Masa grafica. Relatia dintre masa gravifica si masa inertiala.Satelitii artificiali 
+
+CAP.4. ENERGIA MECANICA A PUNCTULUI MATERIAL SI A SISTEMULUI DE PUNCTE MATERIALE 
+
+4.1 Lucrul mecanic efectuat la miscraea punctului material intr-un campo de forte 
+4.2 Energia cinetica. Teorema variatiei eneriei cinetice a punctului materal.
+4.3 Energia potentiala a punctului material la camp conservativ de forte. 
+4.4 Conservarea energiei mecanice 
+4.5 Sisteme de puncte materiale. FOrte interne si forte externe 
+
+
+CAP.5. IMPULSUL MECANIC 
+5.1 Teorema impulsului pentru punctul material. COnservarea impulsului 
+5.2 Teorema impulsului si legea conservarii impulsului pentru un sistem de doua particule 
+5.3 Teorema impulsului si legea conservarii impulsului pentru un sistem oarecare de particulu 
+5.4Centrul de masa al unui sistem de doua particule 
+5.5 Centrul de masa la unui sistem oarecare de doua particule 
+5.6 Ciocniri 
+
+CAP.6. MOMENTUL CINETIC 
+6.1 Momentul fortei. Momentul cinetic al punctului material 
+6.2 Teorema momentului cinetic pentru punctul material. Conservarea momentului cinetic 
+6.3 Teorema momentului cinetic pentru punctul total al unui sistem mecanic. Conservarea momentului cinetic toal
+
+CAP.7. CINEMATICA SI DINAMICA RIGIDULUI 
+7.1  Notiunea de rigid
+7.2  Viteza si acceleratia unghiulara 
+7.3  Energia cinectica de rotatie. Momentul de inertie al unui rigid.
+7.4 Legile cinematicii si dinamicii solidului rigid
+
+
+CAP.8. ECHILIBRUL MECANIC AL CORPURILOR 
+
+8.1 Sistem de forte concurente. Rezultata. Miscarea de translatie 
+8.2 Copunerea frotelor paralel. Cuplul de forte. Miscarea de rotatie. 
+8.3 Centrul de greutate 
+8.4 Echilibrul mecanic. Conditii de echilibru 
+8.5 Echilibrul  in camp gravitational. Echilibrul si enrgia potentiala
+
+CAP 9  MECANICA FLUIDELOR 
+9.1 Starea fluida 
+9.2 Notiunea de presiune 
+9.3 Satica fluidelor: Hidrostatica si aerostatica 
+9.4 Dinamica fluidelor 
+
+
+CAP.10.  UNDE ELASTICE. NOTIUNI DE ACUSTICA 
+10.1 Oscilatorul liniar armonic . Compunerea oscilatiilor 
+10.2 Pendulul gravitational. REzonanta 
+10.3 Propagarea miscarii oscilatorii 
+10.4 Unde trnsversale, unde longitudinale.Viteaza de propagare
+10.5 Ecautia undei plane
+10.6 Clasificare undelor elastice dupa frecventa 
+10.7 Conditii de audibilitate a oscilatiilor elastice 
+10.8 Reflexia si refractia undelor 
+10.9 Difractia 
+10.10 Interferenta. Unde stationare 
+10.11 Coarde si tuburi sonore 
+
+
+

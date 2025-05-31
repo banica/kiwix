@@ -1,0 +1,87 @@
+CUPRINS 
+I.Elemente de fizica cuantica
+1. Fenomene fizice in care se manifesta aspectul corpuscular al luminii 
+1.1. Efectul fotocentric extern
+1.1.1. Definitia si legile efectului fotocentric extern 
+1.1.2. Cuante de energie. Fotoni 
+1.1.3. Explicarea legilor efectului fotoelectric extern 
+1.1.4. Apicatiile efectului fotocentric extern 
+1.1.5. Apicatii ale dispozitivelor optoelectronice 
+1.2. Efectul Compton 
+1.2.1 Definitei. Variatia lungimii de unda a fotonului 
+1.2.2. Electroul de recul 
+
+2. Electronul; sarcina electrica, sarina specifica 
+2.1. Fenomene care au condus la descoperirea electronului 
+2.2. Determinarea sarcinii specifice a electronului din devierea in capmuri electrice si magnetice 
+2.3. Masurarea DIrecta a sarcinii electerice elementare 
+
+
+3. Fenomene fizice in crae se manifesta aspectul ondulatoriu al microparticulelor 
+3.1. ipoteza lui de Broglie asupra propietailor ondulatorii ale particulelor 
+3.2. Dovezi experimentale. Difractia electronilor 
+3.3. Aplicatii. Microsocopul electronic 
+3.4. Interpreatrea statistica a dua;ismului unda-corpuscul 
+
+II Fizica atomului 
+
+1. Spectre atomice. Serii spectrale. Analiza spectrala 
+2. Structura atomului 
+2.1. Raza atomului. Sarcinile electrice in interiorul atomului
+2.3. Modelul planetar al atomului 
+2.4. Modelul cuantificat al atomului 
+2.5. Fenomene de excitare si ionizare a atomilor 
+2.6. Numere cuantice 
+2.7. Atomul cu mai multi electroni
+2.8. Radiatii X
+2.9. Tranzatii spontane si induse. Efectul laser 
+2.9.1 Probabilitatile de tranzatie ale sistemelor cuantice 
+2.9.2 Emisia spontana, emisia indusa 
+2.9.3. Inversia populatiilor, temperatura absoluta negativa 
+2.3. Forte nucleare. Modele nucleare 
+2.4. Reactii nucleare. Legi de conservare 
+2.5. Tiprui de reactii nucleare. Fisiunea stimulata. Reactorul nuclear 
+
+3. Radiatii nucleare 
+3.1. Radioactivitatea naturala si artificiala. Legile dezintegrarii radioactivite 
+3.2. Interactiunea radiatiilor nucleare cu substanta 
+3.3. Detectori de radiactii nucleare 
+
+4. Particule elememtare 
+4.1. Acceleratori de particule 
+4.2. DEscoperirea particulelor elementare 
+4.3. Propietatile particulelor elementare 
+
+
+V. Elemnte de fizica plasmei 
+
+1. Excitarea si ionizare gazelor 
+1.1. Excitarea gazelor 
+1.2. Ionizarea gazelor 
+2. Descarcari electrice in gaze 
+2.1. Strapungere gazelor la presiune atmosefrica. Scanteia electrica 
+2.2. Strapungere gazelor la joasa presiune. Descarcarea luminescenya 
+2.3. Arcul electric ( descarcarea in arc )
+2.4. Lampi fluorescente 
+3. Plasma si porpietatile ei 
+3.1. Definitia plasmei 
+3.2. Densitatea de sarcina, concetratie, grad de ionizare 
+
+4. Plasma termonucleara. Fuziunea termnucleara controlata 
+4.1. Plasma la temperaturi inalte 
+4.2. Fuziunea termonucleara 
+4.3. Generatoare de plasma termonucleara 
+
+5. Plasma in natura. Elemente de astrofizica 
+5.1. Plasma, constituientul princpial al obicetelor cosmice 
+5.2. Reactii termonucleare in stele 
+5.3. Timpul de viata al stelelor 
+
+
+
+
+
+
+
+
+

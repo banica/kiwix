@@ -1,0 +1,78 @@
+CURPINS 
+Cap.1. Curentul alternativ 
+1.1. Circuite de curent alterntiv. Comparatie cu ciruitul de curent continuu 
+1.2 Osciloscopul electronic folosit in studiul circuitelor de curent alternativ 
+1.3 REzisto in curentul alternativ 
+1.4 Circuit serie cu rezsitor si bobina in curent alternativ
+1.5 Circuit series cu rezistor si condesator in curent altrnativ 
+1.6 Circuit serie cu rezistor,bobina si condesator in curentul alternativ ( circuit RLC serie) 
+1.7 Rezonanta circuitului serie RLC 
+1.8 Circuitul paralel RLC in curentul alternativ
+1.9 Putere in curent alternatic
+
+
+Cap.2. Masini electrice rotative 
+2.1 Clasificare masinilor electrice
+2.2 Producerea corentului alternativ monofazat. Alternatorul 
+2.3 Sistemul trifazat. Alternatorul trifazat 
+2.4 Reversibilitatea masinii sincrone. Motorul sincron 
+2.5 Masina electrica asincrona. Motorul asincron 
+2.6 Masini de curent continuu 
+2.7 Generatorul de curent continuu 
+2.8 REversibilitatea masinilor electrice de curent continuu. Principiul de functionare si marimile carcateristice ale motorului de curent continuu 
+
+Cap.3. 
+
+3.1. Principiul transformatorului 
+3.2. COnstructia si functionarea transformatorului monofazt
+3.3 Randamentul transformatorului 
+3.4 Experimente cu transformatoare 
+
+
+Cap. 4. Elemente de cirucit neliniare 
+
+4.1 Notiuni introductive 
+4.2 Dioda. Carcateristice si parametri. Redresarea curentului alternativ 
+4.3. Trioda. Cracateristici si parameteri. Amplificarea 
+4.4 Tetroda si pentoda 
+4.5 Semiconductoare. Purtatori de sarcina in semiconductoare 
+4.6 Semiconductoare cu impuritati. Conductivitatea electrica a unui semiconductor cu impuritati 
+4.7 Jounctiunea pn. Dioda semiconductoare 
+4.8 Redresarea cu diode semicondctoare 
+4.9 Tranzistorul 
+4.10 Perspectivele tuburilor electronice in epoca dispozitivelor semiconductoare si a circuitelkor integrale
+
+Cap.5. Oscilatii electromagnetice 
+5.1 Circuitul oscilant. Rezonanta 
+5.2 Trioda si tranzistorul in montaje generatoare de oscilatii intre tinute 
+
+Cap.6. 
+
+6.1 Campul electromagnetic 
+6.2 Propagarea campului electromagnetic. Unda electromagnetica 
+6.3 Producere undelor electromagnetice 
+6.4 Clasificarea undelor electromagnetice 
+6.5 Emisia, porpagarea si receptia undelor electromagnetice de radiofrecnventa 
+6.6 Radiolocatia si radioastronomia 
+
+Cap.7. Optica 
+7.1 Natrua electromagnetica a luminii. Marimi si untiati energetice si fottmetrice 
+7.2 Determinarea vitezei luminii 
+7.3 Interfata luminii 
+7.4 Difractia luminii 
+7.5 Reflexia si refractia luminii 
+7.6 Dispersia luminii 
+7.7 Absortia luminii 
+7.8 Polarizare luminii
+7.9 Optica geometrica 
+7.10 Instrumente optice 
+
+Cap.8. Notiuni de teoria relativitatii restranse 
+
+8.1 Bazele de experimente a;e teoriei relativiatii restranse 
+8.2 PRstulatele lui Einstein. COnsecinte 
+8.3 Transformarile Lorentz 
+8.4 Cinematica si diamica realtivista 
+
+
+
