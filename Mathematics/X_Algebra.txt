@@ -1,0 +1,78 @@
+Cuprins 
+Capitolul 1 Functia exponential asi funcatia logaritmica 
+1. Functia exponential1
+1.1. Puteri cu exponentul rational ( recapitulare) 
+1.2. Puteri cu exponentul real oarecare 
+1.3. Functia exponentiala 
+1.4. Graficul functiei exponentiale
+
+
+2 Logaritmi 
+2.1. Definitia logaritmului unui numar pozitiv 
+2.2. Functia logaritmica 
+2.3. Propietati;e ;pgaritmilor 
+2.4. Schimbarea bazei logaritmului aceluiasi numar 
+2.4 Operatia de logaritmare a unei expresii 
+
+3. Logaritmi zecimali 
+3.4. Logaritmi zecimali si propietatiil elor 
+3.2. Tabele de logaritmi cu 5 zecimale 
+3.3. Operaii cu logaritmi 
+
+4.  Ecuatii exponentiale si ecuatii logaritmice 
+4.1. Ecuatii exponentiale 
+4.2. Ecuatii logaritmice 
+4.3. Sisteme de ecuatii exponentiale is logaritmice 
+4.4. Inecuatii logaritmice si exponentiale 
+
+
+Capitolul II. Inductie matematica. Combinatorica 
+1 Inductia matematica
+1.1. Notiunile de deductie si de indcutie
+1.2. Metoda inductiei matematice 
+1.3. O varianta a metodei inductiei matematice 
+
+2. Elemente de combinatorica 
+2.1. Multimi ordonate 
+2.2. Permutari 
+2.3. Aranjamente 
+2.4. Combinari 
+
+3. Binomul lui Newton si aplicatii 
+3.1. Binomul lui newton 
+3.2. Aplicatii. Identiatii in calculul cu combinari 
+3.3. Suma puterilor asemenea ale primelor n numere naturale 
+
+4. Progresii aritmetice si progresii geometrice 
+4.1. Siruri
+4.2. Progresii aritmetice 
+4.3. Progresii geometrice
+ 
+
+Capitolul III. Notiuni de aritmetica a numerelor intregi 
+1. Teorema impartirii cu rest a numerelor intregii 
+2. Divizibilitatea numerelor intregi. Propietati 
+3. Cel mai mare divizor comun 
+4. Numere prime. Teorema de descompunere in factori primi 
+
+
+Capitolul IV Polinoame cu coeficienti complecsi 
+1. Multimea polinoamelor cu coeficienti complecsi 
+1.1. Definirea polinoamelor 
+1.2. Propoietatile adunarii polinoamelor 
+1.3. Propietatile inmultirii polinoamelor 
+2. Forma algebrica a polinoamelor 
+3. Gradul unui polinom 
+4. Valoarea unui polinom. Functia polinomiala 
+5. Impartirea polinoamelor 
+5.1. Teorema imapartirii cu rest 
+5.2. Impartirea prin X - a. Schema lui Horner 
+6. Divizibilitatea polinoamelor 
+6.1. Definitia delatiei de divizibilitate. Propietati 
+6.2. Cel mai mare divizor comun al polinoamelor 
+6.3. Cel mai mic multiplu comun al polinoamelor 
+
+
+
+
+

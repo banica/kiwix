@@ -1,0 +1,50 @@
+I. Ecuatii de gradul intai si de gradul al doilea (recapitulare)
+1.1. Ecuatii si inecuatii de gradul intai
+1.2. Ecuatii de gradul al doilea cu radacini reale
+ Exercitii
+
+II. Elemente de logica matematica, multimi, functii
+2.1. Elemente de logica matematica
+ Exercitii
+2.2. Multimi
+ Exercitii
+2.3. Functii
+ Exercitii
+
+III. Numere reale
+3.1. Reprezentarea numerelor rationale sub forma de fractii zecimale (periodice)
+3.2. Numere reale ca fractii zecimale infinite
+3.3. Ordinearea numerelor reale
+3.4. Aproximari zecimale ale numerelor reale
+3.5. Adunarea si inmultirea numerelor reale
+3.6. Interpretarea geometrica a numerelor reale
+ Exercitii
+
+IV. Functia de gradul al doilea
+4.1. Definitia functiei de gradul al doilea. Exemple
+4.2. Graficul functiei de gradul al doilea
+4.3. Maximul sau minimul functiei de gradul al doilea
+4.4. Intervalele de monotonie pentru graficul de gradul al doilea
+4.5. Determinarea pozitiei si trasarea graficului functiei de gradul al doilea
+4.6. Aplicatii ale semnului functiei de gradul al doilea
+4.7. Aplicatii ale semnului functiei de gradul al doilea
+4.8. Aplicatii practice ale studiului functiei de gradul al doilea
+4.9. Rezolvarea altor sisteme de ecuatii cu coeficienti reali
+ Exercitii
+
+V. Puteri si radicali
+5.1. Puteri
+ Exercitii
+5.2. Radicali
+ Exercitii
+
+VI. Numere complexe
+6.1. Multimea numerelor complexe
+6.2. Forma algebrica a numerelor complexe
+6.3. Reprezentarea geometrica a numerelor complexe
+6.4. Rezolvarea ecuatiei de gradul al doilea cu coeficienti reali
+ Exercitii
+
+VII. Probleme recapitulative
+ Raspunsuri si indicatii
+ Bibliografie

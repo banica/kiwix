@@ -1,0 +1,40 @@
+Cap. I: PRELIMINARII  
+1. Numere  
+2. Multimi si functii (recapitulare)  
+3. Matrice (recapitulare)  
+4. Numere relativ prime (recapitulare)  
+   
+
+Cap. II: LEGI DE COMPOZITIE  
+1. Notiunea de lege de compozitie. Exemple  
+2. Parte stabila. Lege de compozitie indusa  
+3. Tabla unei legi de compozitie  
+4. Asociativitate  
+5. Comutativitate  
+6. Element neutru  
+7. Elemente simetrizabile  
+8. Proprietati ale adunarii si inmultirii modulo n  
+   
+
+Cap. III: GRUPURI  
+1. Monoizi  
+2. Definitia grupului. Exemple  
+3. Reguli de calcul intr-un grup  
+4. Subgrup. Exemple  
+5. Morfisme de grupuri  
+  
+Cap. IV: INELE SI CORPURI  
+1. Definitia inelului. Exemple  
+2. Reguli de calcul intr-un inel  
+3. Inelul claselor de resturi modulo n  
+4. Corpuri  
+5. Morfisme de inele si corpuri  
+6. Polinoame cu coeficienti intr-un inel comutativ  
+7. Polinoame ireductibile. Descompunerea polinoamelor in produs de factori ireductibili  
+8. Aplicatii ale corpurilor finite (facultativ)  
+   
+Cap. V: SPATII VECTORIALE  
+1. Legi de compozitie externe  
+2. Definitia spatiului vectorial  
+3. Dependenta si independenta liniara. Baza. Coordonate  
+   

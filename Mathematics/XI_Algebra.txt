@@ -1,0 +1,31 @@
+Capitolul I. Permutari  
+1. Notiunea de permutare  
+2. Produsul (comunerea) permutarilor  
+3. Transpozitii  
+4. Inversiunile unei permutari. Signatura (semnul) unei permutari  
+5. Descompunerea unei permutari in produs de transpozitii  
+    
+
+Capitolul II. Matrice  
+1. Notiunea de matrice  
+2. Operatii cu matrice  
+3. Transpusa unei matrice  
+
+Capitolul III. Determinanti  
+1. Determinanti de ordinul 2 si 3  
+2. Definitia determinantului de ordinul n  
+3. Proprietatile determinantilor  
+4. Interpretarea geometrica a determinantului de ordinul 3  
+5. Calculul determinantilor  
+  
+Capitolul IV. Rangul unei matrice. Matrice inversabile  
+1. Rangul unei matrice  
+2. Matrice inversabile  
+ 
+
+Capitolul V. Sisteme de ecuatii liniare  
+1. Notiuni generale  
+2. Regula lui Cramer  
+3. Calculul rangului unei matrice  
+4. Sisteme de ecuatii liniare  
+5. Sisteme de ecuatii liniare omogene
