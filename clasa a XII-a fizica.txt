@@ -1,0 +1,140 @@
+CUPRINS (clasa a XII-a)
+I. Elemente de fizica cuantica
+Fenomene fizice in care se manifesta aspectul corpuscular al luminii
+    1.1. Efectul fotoelectric extern
+        1.1.1. Definitia si legile efectului fotoelectric extern
+        1.1.2. Cuante de energie. Fotoni
+        1.1.3. Explicarea legilor efectului fotoelectric extern
+        1.1.4. Aplicatii ale efectului fotoelectric extern
+        1.1.5. Aplicatii ale dispozitivelor optoelectronice
+
+    1.2. Efectul Compton
+        1.2.1. Definitie. Variatia lungimii de unda a fotonului
+        1.2.2. Electronul de recul
+
+Electronul: sarcina electrica, sarcina specifica
+    2.1. Fenomene care au condus la descoperirea electronului
+    2.2. Determinarea sarcinii specifice a electronului din devierea in campuri electrice si magnetice
+    2.3. Masurarea directa a sarcinii electrice elementare
+
+Fenomene fizice in care se manifesta aspectul ondulatoriu al microparticulelor
+    3.1. Ipoteza lui de Broglie asupra proprietatilor ondulatorii ale particulelor
+    3.2. Dovezi experimentale: difractia electronilor
+    3.3. Aplicatii: microscopul electronic
+    3.4. Interpretarea statistica a dualismului unda-corpuscul
+
+Probleme
+
+II. Fizica atomului
+Spectre atomice. Serii spectrale. Analiza spectrala
+
+Structura atomului
+    2.1. Raza atomului. Sarcinile electrice din interiorul atomului
+    2.2. Experientele lui Rutherford
+    2.3. Modelul planetar al atomului
+    2.4. Modelul cuantificat al atomului
+    2.5. Fenomene de excitare si ionizare a atomilor
+    2.6. Numere cuantice
+    2.7. Atomul cu mai multi electroni
+    2.8. Radiatii X
+    2.9. Tranzitii spontane si induse. Efectul laser
+        2.9.1. Probabilitatile de tranzitie ale sistemelor cuantice
+        2.9.2. Emisia spontana, emisia indusa
+        2.9.3. Inversia populatiilor, temperatura absoluta negativa
+        2.9.4. Bilantul puterilor in mediul activ laser
+        2.9.5. Laserul cu cristal de rubin
+        2.9.6. Proprietatile radiatiei laser
+
+Probleme
+
+III. Elemente de fizica solidului
+Legatura cristalina
+    1.1. Legatura Van der Waals
+    1.2. Legatura ionica
+    1.3. Legatura covalenta
+    1.4. Legatura metalica
+
+Structura cristalina a corpului solid
+    2.1. Clasificarea corpurilor solide dupa structura
+    2.2. Tipuri de retele cristaline
+
+Determinarea structurii cristaline prin difractia de raze X
+    3.1. Difractia ca metoda de analiza a structurii cristaline
+    3.2. Conditii de difractie dupa Bragg
+    3.3. Determinarea constantelor retelei cristaline
+
+Structura de benzi a energiei si electronilor in solide: metale, semiconductori, dielectrici
+    4.1. Stari energetice ale electronilor in cristal
+    4.2. Banda de conductie si banda de valenta
+    4.3. Clasificarea corpurilor solide in metale, semiconductori, dielectrici
+
+Conductia electrica a semiconductorilor
+    5.1. Electronii de conductie
+    5.2. Electroni si goluri
+    5.3. Impuritati donoare si acceptoare
+    5.4. Concentratia purtatorilor de sarcina
+    5.5. Parametrii materialelor semiconductoare
+
+Fotoconductia semiconductorilor
+    6.1. Purtatori de sarcina de dezechilibru
+    6.2. Dependenta de iluminare a conductivitatii electrice
+
+Efectul fotovoltaic in jonctiunea p-n. Aplicatii
+    7.1. Procese fizice in jonctiunea p-n
+    7.2. Caracteristica curent-tensiune a unui fotoelement
+    7.3. Aplicatii ale fotoelementelor
+
+Intrebari, exercitii, probleme
+
+IV. Fizica nucleului. Particule elementare
+Proprietati generale ale nucleului atomic
+    1.1. Sarcina nucleelor atomice. Numar atomic
+    1.2. Dimensiunile nucleelor. Raza nucleara
+    1.3. Masa atomica. Masa nucleara. Numar de masa
+    1.4. Constituienti ai nucleului atomic. Izotopi. Izobari
+
+Stabilitatea nucleelor atomice
+    2.1. Energia de legatura a nucleului
+    2.2. Energia de legatura pe nucleon. Procese de dezintegrare. Fisiune si fuziune
+    2.3. Forte nucleare. Modele nucleare
+    2.4. Reactii nucleare. Legi de conservare
+    2.5. Tipuri de reactii nucleare. Fisiunea stimulata. Reactorul nuclear
+
+Radiatii nucleare
+    3.1. Radioactivitatea naturala si artificiala. Legile dezintegrarii radioactive
+    3.2. Interactiunea radiatiilor nucleare cu substanta
+    3.3. Detectori de radiatii nucleare
+
+Particule elementare
+    4.1. Acceleratori de particule
+    4.2. Descoperirea particulelor elementare
+    4.3. Proprietatile particulelor elementare
+
+Probleme
+
+V. Elemente de fizica plasmei
+Excitarea si ionizarea gazelor
+    1.1. Excitarea gazelor
+    1.2. Ionizarea gazelor
+
+Descarcari electrice in gaze
+    2.1. Strapungerea gazelor la presiunea atmosferica. Scanteia electrica
+    2.2. Strapungerea gazelor la joasa presiune. Descarcarea luminescenta
+    2.3. Arcul electric (descarcarea in arc)
+    2.4. Lampi fluorescente cu descarcari in gaze
+
+Plasma si proprietatile ei
+    3.1. Definitia plasmei
+    3.2. Densitate de sarcina, concentratie, grad de ionizare
+
+Plasma termonucleara. Fuziunea termonucleara controlata
+    4.1. Plasma la temperaturi inalte
+    4.2. Fuziunea termonucleara
+    4.3. Generatoare de plasma termonucleara
+
+Plasma in natura. Elemente de astrofizica
+    5.1. Plasma – constituentul principal al obiectelor cosmice
+    5.2. Reactii termonucleare in stele
+    5.3. Timpul de viata al stelelor
+
+Probleme si intrebari

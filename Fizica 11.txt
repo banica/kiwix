@@ -1,0 +1,94 @@
+CUPRINS
+
+Cap. 1. Curentul alternativ
+
+	1.1. Circuite de curent alternativ. Comparatie cu circuitul de curent continuu
+	1.2. Osciloscopul electronic folosit in studiul circuitelor de curent alternativ
+	1.3. Rezistor in curent alternativ
+	1.4. Circuit serie cu rezistor si bobina in curent alternativ
+	1.5. Circuit serie cu rezistor si condensator in curent alternativ
+	1.6. Circuit serie cu rezistor, bobina si condensator in curent alternativ (circuit RLC serie)
+	1.7. Rezonanta circuitului serie RLC
+	1.8. Circuitul paralel RLC in curent alternativ
+	1.9. Puterea in curent alternativ
+		Probleme
+
+Cap. 2. Masini electrice rotative
+
+	2.1. Clasificarea masinilor electrice
+	2.2. Producerea curentului alternativ monofazat. Alternatorul
+	2.3. Sistemul trifazat. Alternatorul trifazat
+	2.4. Reversibilitatea masinii sincrone. Motorul sincron
+	2.5. Masina electrica asincrona. Motorul asincron
+	2.6. Masini de curent continuu
+	2.7. Generatorul de curent continuu
+	2.8. Reversibilitatea masinilor electrice de curent continuu. Principiul de functionare si marimile caracteristice ale motorului de curent continuu
+		Intrebari. Probleme
+
+Cap. 3. Transformatorul
+
+	3.1. Principiul transformatorului
+	3.2. Constructia si functionarea transformatorului monofazat
+	3.3. Randamentul transformatorului
+	3.4. Experimente cu transformatoare
+		Intrebari. Probleme
+
+Cap. 4. Elemente de circuit neliniare
+
+	4.1. Notiuni introductive
+	4.2. Dioda. Caracteristici si parametri. Redresarea curentului alternativ
+	4.3. Trioda. Caracteristici si parametri. Amplificarea
+	4.4. Tetroda si pentoda
+		Intrebari. Probleme
+	4.5. Semiconductoare. Purtatori de sarcina in semiconductoare
+	4.6. Semiconductori cu impuritati. Conductivitatea electrica a unui semiconductor cu impuritati
+	4.7. Jonctiunea pn. Dioda semiconductoare
+	4.8. Redresarea cu diode semiconductoare
+	4.9. Tranzistorul
+	4.10. Perspectivele tuburilor electronice in epoca dispozitivelor semiconductoare si a circuitelor integrate
+		Intrebari. Probleme
+
+Cap. 5. Oscilatii electromagnetice
+
+	5.1. Circuitul oscilant. Rezonanta
+	5.2. Trioda si tranzistorul in montaje generatoare de oscilatii intretinute
+		Intrebari. Probleme
+
+Cap. 6. Unde electromagnetice
+
+	6.1. Campul electromagnetic
+	6.2. Propagarea campului electromagnetic. Unda electromagnetica
+	6.3. Producerea undelor electromagnetice
+	6.4. Clasificarea undelor electromagnetice
+	6.5. Emisia, propagarea si receptia undelor electromagnetice de radiofrecventa
+	6.6. Radiolocatia si radioastronomia
+		Intrebari. Probleme
+
+Cap. 7. Optica
+
+	7.1. Natura electromagnetica a luminii. Marimi si unitati energetice si fotometrice
+		Probleme
+	7.2. Determinarea vitezei luminii
+	7.3. Interferenta luminii
+		Probleme
+	7.4. Difractia luminii
+		Probleme
+	7.5. Reflexia si refractia luminii
+		Probleme
+	7.6. Dispersia luminii
+	7.7. Absorbtia luminii
+		Probleme
+	7.8. Polarizarea luminii
+		Probleme
+	7.9. Optica geometrica
+	7.10. Instrumente optice
+		Probleme
+
+Cap. 8. Notiuni de teoria relativitatii restranse
+
+	8.1. Bazele experimentale ale teoriei relativitatii restranse
+	8.2. Postulatele lui Einstein. Consecinte
+	8.3. Transformarile Lorentz
+	8.4. Cinematica si dinamica relativista
+		Probleme
+

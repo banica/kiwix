@@ -1,0 +1,127 @@
+CUPRINS
+
+CAP. 1. MISCAREA SI REPAUSUL
+
+	1.1. Sistem de referinta
+	1.2. Punct material
+	1.3. Traiectorie. Coordonate. Legea miscarii
+	1.4. Vector de pozitie
+	1.5. Deplasare
+	1.6. Marimi vectoriale.
+	1.7. Viteza
+	1.8. Acceleratia
+	1.9. Clasificarea miscarilor punctului material
+	1.10. Relativitatea miscarii mecanice
+	1.11. Compunerea miscarilor
+	1.12. Reprezentarea grafica a legii miscarii
+		Probleme rezolvate
+		Intrebari. Exercitii. Probleme
+
+CAP. 2. PRINCIPIILE MECANICII NEWTONIENE
+
+	2.1. Principiul inertiei
+	2.2. Sisteme de referinta inertiale
+	2.3. Principiul fundamental al dinamicii
+	2.4. Principiul actiunilor reciproce
+	2.5. Principiul suprapunerii fortelor
+	2.6. Principiul relativitatii in mecanica newtoniana
+		Probleme rezolvate
+		Intrebari. Exercitii. Probleme
+
+CAP. 3. MISCAREA PUNCTULUI MATERIAL SUB ACTIUNEA UNOR TIPURI DE FORTE
+
+	3.1. Miscarea rectilinie uniforma
+		Probleme rezolvate
+		Intrebari. Exercitii. Probleme
+	3.2. Miscarea rectilinie uniform variata
+		Probleme rezolvate
+		Intrebari. Exercitii. Probleme
+	3.3. Miscarea corpurilor sub actiunea greutatii
+		Probleme rezolvate
+		Intrebari. Exercitii. Probleme
+	3.4. Fortele de frecare
+		Probleme rezolvate
+		Intrebari. Exercitii. Probleme
+	3.5. Miscarea circulara uniforma
+		Problema rezolvata
+		Intrebari. Exercitii. Probleme
+	3.6. Forte elastice
+		Probleme rezolvate
+		Intrebari. Exercitii. Probleme
+
+	3.7. Legea atractiei universale a lui Newton. Cimpul gravitational
+	3.8. Masa gravifica. Relatia dintre masa gravifica si masa inertiala
+		Satelitii artificiali
+		Problema rezolvata
+		Intrebari. Exercitii. Probleme
+
+CAP. 4. ENERGIA MECANICA A PUNCTULUI MATERIAL SI A SISTEMULUI DE PUNCTE MATERIALE
+
+	4.1. Lucrul mecanic efectuat la miscarea punctului material intr-un cimp de forte
+	4.2. Energia cinetica. Teorema variatiei energiei cinetice a punctului material
+	4.3. Energia potentiala a punctului material in cimp conservativ de forte. Energia mecanica a punctului material in cimp conservativ de forte
+	4.4. Conservarea energiei mecanice
+	4.5. Sisteme de puncte materiale. Forte interne si forte externe
+		Probleme rezolvate.
+		Intrebari. Exercitii. Probleme
+
+CAP. 5. IMPULSUL MECANIC
+
+	5.1. Teorema impulsului pentru punctul material. Conservarea impulsului
+	5.2. Teorema impulsului si legea conservarii impulsului pentru un sistem de doua particule
+	5.3. Teorema impulsului si legea conservarii impulsului pentru un sistem oarecare de particule
+	5.4. Centrul de masa al unui sistem de doua particule
+	5.5. Centrul de masa al unui sistem oarecare de particule
+	5.6. Ciocniri
+		Probleme rezolvate.
+		Intrebari. Exercitii. Probleme
+
+CAP. 6. MOMENTUL CINETIC
+
+	6.1. Momentul fortei. Momentul cinetic al punctului material.
+	6.2. Teorema momentului cinetic pentru punctul material. Conservarea momentului cinetic
+	6.3. Teorema momentului cinetic total al unui sistem mecanic. Conservarea momentului cinetic total
+		Intrebari. Exercitii. Probleme
+
+CAP. 7. CINEMATICA SI DINAMICA RIGIDULUI
+
+	7.1. Notiunea de rigid
+	7.2. Viteza si acceleratia unghiulara
+	7.3. Energia cinetica de rotatie. Momentul de inertie al unui rigid
+	7.4. Legile cinematicii si dinamicii solidului rigid
+		Probleme rezolvate
+		Intrebari. Exercitii. Probleme
+
+CAP. 8. ECHILIBRUL MECANIC AL CORPURILOR
+
+	8.1. Sistem de forte concurente. Rezultanta. Miscarea de translatie
+	8.2. Compunerea fortelor paralele. Cuplul de forte. Miscarea de rotatie
+	8.3. Centrul de greutate
+	8.4. Echilibrul mecanic. Conditii de echilibru
+	8.5. Echilibrul in cimp gravitational. Echilibrul si energia potentiala
+		Intrebari. Exercitii. Probleme
+
+CAP. 9. MECANICA FLUIDELOR
+
+	9.1. Starea fluda
+	9.2. Notiunea de presiune
+	9.3. Statica fluidelor: hidrostatica si aerostatica
+	9.4. Dinamica fluidelor
+		Intrebari. Exercitii. Probleme
+
+CAP. 10. UNDE ELASTICE. NOTIUNI DE ACUSTICA
+
+	10.1. Oscilatorul liniar armonic. Compunerea oscilatiilor
+	10.2. Pendulul gravitational. Rezonanta
+	10.3. Propagarea miscarii oscilatorii
+	10.4. Unde transversale, unde longitudinale. Viteza de propagare
+	10.5. Ecuatia undei plane
+	10.6. Clasificarea undelor elastice dupa frecventa
+	10.7. Conditii de audibilitate a oscilatiilor clasice
+	10.8. Reflexia si refractia undelor
+	10.9. Difractia
+	10.10. Interferenta. Unde stationare
+	10.11. Coarde si tuburi sonore
+		Intrebari. Exercitii. Probleme
+		Probleme recapitulative
+

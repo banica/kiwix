@@ -1,0 +1,169 @@
+CUPRINS (clasa a X-a A)
+Partea 1
+FENOMENE TERMICE
+
+Capitolul 1. Notiuni despre structura corpurilor
+1.1. Structura discontinua a substantei
+1.2. Principalele legi care dovedesc structura discontinua a substantei
+1.3. Experiente care evidentiaza miscarea moleculelor
+1.4. Unele marimi legate de structura discreta a substantei
+1.5. Fenomene termice
+1.6. Metode de studiu al fenomenelor termice
+
+Capitolul 2. Notiuni termodinamice de baza
+2.1. Sistem termodinamic. Starea sistemului termodinamic
+    2.1.1. Sistem termodinamic
+    2.1.2. Starea sistemului termodinamic. Parametrii de stare
+    2.1.3. Starea de echilibru termodinamic
+    2.1.4. Transformari de stare
+    2.1.5. Procese reversibile si ireversibile
+
+2.2. Lucrul mecanic, energia interna si caldura
+    2.2.1. Lucrul mecanic in termodinamica
+    2.2.2. Lucrul mecanic intr-o transformare reversibila
+    2.2.3. Interpretarea geometrica a lucrului mecanic
+    2.2.4. Dependenta lucrului mecanic de transformare
+    2.2.5. Lucrul mecanic intr-o transformare ireversibila
+    2.2.6. Energia interna
+    2.2.7. Lucrul mecanic si energia interna intr-o transformare adiabatica
+    2.2.8. Caldura
+
+2.3. Temperatura
+    2.3.1. Contactul termic intre sisteme termodinamice. Echilibrul termic
+    2.3.2. Principiul tranzitivitatii echilibrului termic. Temperatura
+    2.3.3. Ecuatii de stare
+
+2.4. Masurarea temperaturii
+    2.4.1. Scara Celsius
+    2.4.2. Dispozitive pentru masurarea temperaturii
+
+2.5. Legile gazului ideal
+    2.5.1. Legea Boyle-Mariotte
+    2.5.2. Legea Gay-Lussac
+    2.5.3. Legea lui Charles
+    2.5.4. Ecuatia Clapeyron-Mendeleev
+    2.5.5. Scurta de temperatura a gazului ideal
+    2.5.6. Scara termodinamica de temperatura
+    2.5.7. Energia interna a gazului ideal
+
+Capitolul 3. Principiile termodinamicii
+3.1. Legea conservarii si transformarii energiei in procesele mecanice si termice
+3.2. Aplicatii ale primului principiu al termodinamicii
+    3.2.1. Coeficienti calorici
+    3.2.2. Relatia Mayer
+    3.2.3. Transformarile simple ale gazului ideal
+    3.2.4. Masurari calorimetrice
+
+3.3. Principiul al doilea al termodinamicii
+    3.3.1. Lucrul mecanic si caldura in transformari ciclice
+    3.3.2. Principiul al doilea al termodinamicii in formularea lui W. Thomson
+    3.3.3. Lucrul mecanic intr-o transformare ciclica bitermala
+    3.3.4. Principiul al doilea al termodinamicii in formularea lui R. Clausius
+    3.3.5. Echivalenta formularilor lui Thomson si Clausius
+
+3.4. Masini termice
+    3.4.1. Ciclul Carnot
+    3.4.2. Tipuri de motoare termice
+
+3.5. Entropia
+
+Capitolul 4. Teoria cinetico-moleculara
+4.1. Studiul gazului ideal
+    4.1.1. Haosul molecular si legile statistice
+    4.1.2. Modelul gazului ideal
+    4.1.3. Formula fundamentala a teoriei cinetico-moleculare
+    4.1.4. Interpretarea cinetico-moleculara a temperaturii
+
+4.2. Grade de libertate. Teorema echipartitiei energiei
+    4.2.1. Grade de libertate
+    4.2.2. Molecula diatomica
+    4.2.3. Teorema echipartitiei energiei
+    4.2.4. Energia interna a gazului ideal monoatomic
+    4.2.5. Ecuatia termica de stare a gazului ideal
+    4.2.6. Ecuatia calorica de stare a gazului ideal monoatomic
+    4.2.7. Viteza termica
+    4.2.8. Energia interna a gazului ideal diatomic
+
+4.3. Fortele intermoleculare
+4.4. Modele cinetico-moleculare ale starilor de agregare
+
+Capitolul 5. Studiul lichidelor
+5.1. Structura lichidelor. Miscarea termica in lichide
+5.2. Dilatarea lichidelor
+5.3. Fenomene superficiale
+    5.3.1. Fenomene de suprafata
+    5.3.2. Fenomene capilare
+
+Capitolul 6. Structura corpurilor solide
+6.1. Structura solidelor
+    6.1.1. Miscarea termica in solide
+6.2. Dilatarea
+
+Capitolul 7. Transformari de faza
+7.1. Izotermele lui Andrews. Stare critica. Lichefierea gazelor
+    7.1.1. Masini de lichefiat gaze. Frigiderul
+    7.1.2. Vaporizarea si condensarea. Diagrama de stare
+7.2. Topirea si solidificarea
+7.3. Sublimarea si desublimarea
+7.4. Starea tripla a substantei
+7.5. Variatia de entropie in transformarile de faza
+
+Partea 2
+FENOMENE ELECTRICE SI MAGNETICE
+
+Capitolul 8. Campul electrostatic
+8.1. Interactiunea electrica. Intensitatea campului electric
+    8.1.1. Sarcina electrica
+    8.1.2. Legea lui Coulomb
+    8.1.3. Intensitatea campului electric
+    8.1.4. Fluxul intensitatii campului electric
+    8.1.5. Teorema lui Gauss
+    8.1.6. Potentialul electric
+    8.1.7. Conductor izolat in camp electrostatic
+    8.1.8. Aplicatii ale teoremei lui Gauss
+    8.1.9. Capacitatea electrica a unui conductor izolat
+    8.1.10. Capacitatea condensatorului plan
+    8.1.11. Gruparea condensatorilor
+    8.1.12. Dielectrici in camp electric
+    8.1.13. Energia campului electric dintre armaturile unui condensator
+
+Capitolul 9. Curentul electric stationar
+9.1. Curentul electric in conductori metalici
+    9.1.1. Circuitul electric
+    9.1.2. Intensitatea curentului electric
+
+9.2. Legile curentului electric
+    9.2.1. Tensiunea electrica. Tensiunea electromotoare
+    9.2.2. Rezistenta. Rezistivitatea
+    9.2.3. Legea lui Ohm
+    9.2.4. Reostate
+    9.2.5. Legile lui Kirchhoff
+    9.2.6. Gruparea rezistoarelor
+
+9.3. Energia si puterea curentului electric
+9.4. Curentul electric in electroliti
+    9.4.1. Disociatia electrolitica
+    9.4.2. Electroliza si legile ei. Aplicatiile electrolizei
+
+Capitolul 10. Campul magnetic al curentului electric
+10.1. Campul magnetic
+10.2. Actiunea campului magnetic asupra curentului electric. Inductia campului magnetic
+10.3. Fluxul magnetic
+10.4. Campul magnetic al unor curenti electrici stationari
+10.5. Interactiunea magnetica a curentilor electrici. Amperul
+10.6. Forta Lorentz
+10.7. Miscarea purtatorilor de sarcina electrica in camp electric si magnetic
+
+Capitolul 11. Inductia electromagnetica
+11.1. Fenomenul de inductie electromagnetica
+11.2. Sensul curentului electric indus
+11.3. Legea inductiei electromagnetice
+11.4. Autoinductia. Inductanta unui circuit
+11.5. Cuplajul inductiv a doua circuite electrice. Inductanta mutuala
+11.6. Energia campului magnetic
+11.7. Proprietatile magnetice ale substantei. Aplicatii
+
+Capitolul 12. Curentul alternativ
+12.1. Generarea tensiunii electromotoare (t.e.m.) alternative
+    12.1.1. Interpretare electronica
+12.2. Valoarea efectiva a intensitatii curentului si tensiunii alternative
